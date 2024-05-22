@@ -73,7 +73,7 @@ education:
   - area: BSc(SE)
     institution: UESTC
     date_start: 2022-09-01
-    date_end: Present
+    date_end: 2023-05-22
     summary: |
       Rank: 1/89, 1/718(before the major division)
       
